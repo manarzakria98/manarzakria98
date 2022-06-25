@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manar Zakria</h1>
 <h3 align="center">Passionate About Software</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript , Software Testing**
 
-- 💬 Ask me about **Html,css and JavaScript**
+- 💬 Ask me about **Html,css,JavaScript,c and Istqb foundation level**
 
 - 📫 How to reach me **manarzakriaabdelhameid@gmail.com**
 
