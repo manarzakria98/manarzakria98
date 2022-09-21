@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manar Zakria</h1>
-<h3 align="center">Passionate About Software</h3>
+<h3 align="center">Incoming Software Tester </h3>
 
 - 🌱 I’m currently learning **JavaScript , API Testing**
 
