@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manar Zakria</h1>
 <h3 align="center">Software Test Engineer </h3>
 
-- 🌱 I’m currently learning **Automation , API Automation Testing**
+- 🌱 I’m currently learning **Web Automation , API Automation Testing**
 
-- 💬 Ask me about **Manual Testing, Performance Testing, API Testing**
+- 💬 Ask me about **Manual Testing, API Testing, Performance Testing**
 
 - 📫 How to reach me **manarzakria.qc@gmail.com**
 
