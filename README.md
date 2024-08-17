@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manar Zakria</h1>
-<h3 align="center">Incoming Software Tester </h3>
+<h3 align="center">Software Test Engineer </h3>
 
-- 🌱 I’m currently learning **JavaScript , API Testing**
+- 🌱 I’m currently learning **Automation , API Automation Testing**
 
-- 💬 Ask me about **Html,css,JavaScript,c and Manual Testing**
+- 💬 Ask me about **Manual Testing, Performance Testing, API Testing**
 
-- 📫 How to reach me **manarzakriaabdelhameid@gmail.com**
+- 📫 How to reach me **manarzakria.qc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
